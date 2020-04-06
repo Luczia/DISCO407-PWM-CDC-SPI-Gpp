@@ -1,5 +1,5 @@
 *****************************************************************************
-** ChibiOS/RT base devlopment code for F407 Discovery board.      
+ChibiOS/RT base devlopment code for F407 Discovery board.      
 *****************************************************************************
 
  This repo contains all files for a clean development on a STM32 F407 Discovery board. 
@@ -12,10 +12,10 @@
     
   It runs on ChibiOS 19.1 but should be easily ported to 18.2 as the project was originally created on that branch.
   
-  Just modidy the makefile variable CHIBIOS to adjust the location of your chibiOS source files.
+  Just modify the makefile variable CHIBIOS to adjust the location of your chibiOS source files.
   
   
-  Hopefully it can be usefull to some wanderes lost in the ChibiOS world, it took me quite soem times to get all thos example running with this beautiful but complex RTOS.
+  Hopefully it can be usefull to some wanderer lost in the ChibiOS world, it took me quite some times to get all those examples running with this beautiful but complex RTOS.
   
   
 
