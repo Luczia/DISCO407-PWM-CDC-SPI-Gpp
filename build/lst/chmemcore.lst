@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -12,7 +12,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
    9              		.eabi_attribute 34, 1
   10              		.eabi_attribute 18, 4
   11              		.file	"chmemcore.c"
-  12              		.section	.gnu.lto_.inline.75cadf6e,"",%progbits
+  12              		.section	.gnu.lto_.inline.75d6f2e8,"",%progbits
   13 0000 789C6363 		.ascii	"x\234cc``8\307\200\000\034\014\014,\314\014\014L,\037"
   13      606038C7 
   13      80001C0C 
@@ -47,7 +47,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
   19      00BFD10E 
   19      22
   20              		.text
-  21              		.section	.gnu.lto_port_lock.75cadf6e,"",%progbits
+  21              		.section	.gnu.lto_port_lock.75d6f2e8,"",%progbits
   22 0000 789C7D50 		.ascii	"x\234}P\317K\025Q\024>\337\334\361\031jQ\213v.\346-"
   22      CF4B1551 
   22      143EDFDC 
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
   23      6FE5E241 
   23      F8FE00C9 
   23      69C8
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 2
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 2
 
 
   24 0027 81C69199 		.ascii	"\201\306\221\231W\350\312\313\313xV\356z\251<\206,-"
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
   35      94898612 
   35      5DE704
   36 00f5 BB115F50 		.ascii	"\273\021_P*RU\030\314]\376\254\346M=V\300\302,\023}"
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 3
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 3
 
 
   36      2A525518 
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
   47      869D276C 
   47      9BA976E6 
   48 01d0 0B1D96A6 		.ascii	"\013\035\226\246\353\015\334}V\246\225\214\200\352="
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 4
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 4
 
 
   48      EB0DDC7D 
@@ -188,7 +188,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
   49      FA0B252D 
   49      AEBB
   50              		.text
-  51              		.section	.gnu.lto_port_unlock.75cadf6e,"",%progbits
+  51              		.section	.gnu.lto_port_unlock.75d6f2e8,"",%progbits
   52 0000 789C7D50 		.ascii	"x\234}P\317KTQ\024>\337\273\317\231P\213Z\270s1\263"
   52      CF4B5451 
   52      143EDFBB 
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
   61      E2F4DACB 
   61      D5A50671 
   61      08
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 5
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 5
 
 
   62 00bd 9AE2E6EC 		.ascii	"\232\342\346\354\225\311\306\314\214R%\025\275\306\013"
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
   73      5ED9E7F9 
   73      C5401EE9 
   73      CCE7
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 6
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 6
 
 
   74 019a F2FDDC61 		.ascii	"\362\375\334ay\276\335u\346\240\233\355\241d\367\361"
@@ -322,7 +322,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
   77      00
   78 01e6 8568AF09 		.ascii	"\205h\257\011"
   79              		.text
-  80              		.section	.gnu.lto_chSysLock.75cadf6e,"",%progbits
+  80              		.section	.gnu.lto_chSysLock.75d6f2e8,"",%progbits
   81 0000 789C6363 		.ascii	"x\234cc``8\011\304\232@,\012\304\014\314\014\214L\014"
   81      60603809 
   81      C49A402C 
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
   87      835503
   88 007f 8DD8B9F3 		.ascii	"\215\330\271\363\315m\366\372\277\015\034s\230\031\247"
   88      CD6DF6FA 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 7
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 7
 
 
   88      BF0D1C73 
@@ -386,7 +386,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
   93 00da 03008F01 		.ascii	"\003\000\217\001JA"
   93      4A41
   94              		.text
-  95              		.section	.gnu.lto_chSysUnlock.75cadf6e,"",%progbits
+  95              		.section	.gnu.lto_chSysUnlock.75d6f2e8,"",%progbits
   96 0000 789C8D94 		.ascii	"x\234\215\224\317k\023A\024\307\347\273ow\223\032\023"
   96      CF6B1341 
   96      14C7E7BB 
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  102 0067 F708BF22 		.ascii	"\367\010\277\"$\240\011~A<\222\306&[3y\320u\315\250"
  102      24A0097E 
  102      413C92C6 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 8
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 8
 
 
  102      265B3379 
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  114 013f 5250DAFA 		.ascii	"RP\332\3726\306Zk&\240,M\232\314\310\030,\361\011\275"
  114      36C65A6B 
  114      26A02C4D 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 9
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 9
 
 
  114      9ACCC818 
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  126 0217 0B8CE6F5 		.ascii	"\013\214\346\365\372\033\244\035\332\247PL\277{\227"
  126      FA1BA41D 
  126      DAA7504C 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 10
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 10
 
 
  126      BF7B97
@@ -559,7 +559,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  130 025d 892EF107 		.ascii	"\211.\361\007\353\005k|"
  130      EB056B7C 
  131              		.text
- 132              		.section	.gnu.lto__core_init.75cadf6e,"",%progbits
+ 132              		.section	.gnu.lto__core_init.75d6f2e8,"",%progbits
  133 0000 789C8591 		.ascii	"x\234\205\221\301KTQ\024\306\317\367\316\314\323Ec\004"
  133      C14B5451 
  133      14C6CFF7 
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  140      1D3570DE 
  140      67A25126 
  140      33F0126D 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 11
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 11
 
 
  140      2465BFEF 
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  152      DCD7A02D 
  152      E6C55EAC 
  152      1B289169 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 12
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 12
 
 
  152      E3C1
@@ -691,7 +691,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  158      FF02D19B 
  158      DF4F
  159              		.text
- 160              		.section	.gnu.lto_chCoreAllocAlignedWithOffsetI.75cadf6e,"",%progbits
+ 160              		.section	.gnu.lto_chCoreAllocAlignedWithOffsetI.75d6f2e8,"",%progbits
  161 0000 789C8D55 		.ascii	"x\234\215U\377oSU\024\277\347\235\367\255\355\332\022"
  161      FF6F5355 
  161      14BFE79D 
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  166 0057 36CFB9F7 		.ascii	"6\317\271\367\355\033,dM{z\337\347~>\367\234\317=\367"
  166      ED1B2C64 
  166      4D7B7ADF 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 13
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 13
 
 
  166      E77E3EF7 
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  178 0130 291E1DDB 		.ascii	")\036\035\333\377\262\247\035\353\254RZ\204\201U\022"
  178      FFB2A71D 
  178      EBAC525A 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 14
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 14
 
 
  178      84815512 
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  190      5C3E3F79 
  190      D34ACE3A 
  190      B68B6606 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 15
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 15
 
 
  191 0219 319C8124 		.ascii	"1\234\201$\251,) \035\336\201\346\361\322T5\013\262"
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  201      1D22AC
  202 02e6 3F75FF70 		.ascii	"?u\377p\210\214\200\213A\270@>~\361|\234\034\2725cG"
  202      888C808B 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 16
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 16
 
 
  202      41B8403E 
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  213      97C5
  214 03c0 30E1FF42 		.ascii	"0\341\377B\230\252\263\307\347'\350~\216\370\036u\225"
  214      98AAB3C7 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 17
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 17
 
 
  214      E727E87E 
@@ -985,7 +985,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  219 0417 FF604F13 		.ascii	"\377`O\023n"
  219      6E
  220              		.text
- 221              		.section	.gnu.lto___func__.7094.75cadf6e,"",%progbits
+ 221              		.section	.gnu.lto___func__.7094.75d6f2e8,"",%progbits
  222 0000 789C6363 		.ascii	"x\234cc``\020\005b\005\006\010\230\302\3148\355\323"
  222      60601005 
  222      62050608 
@@ -1004,7 +1004,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  225 0041 640000F9 		.ascii	"d\000\000\371\304\022j"
  225      C4126A
  226              		.text
- 227              		.section	.gnu.lto_chCoreAllocAlignedWithOffset.75cadf6e,"",%progbits
+ 227              		.section	.gnu.lto_chCoreAllocAlignedWithOffset.75d6f2e8,"",%progbits
  228 0000 789C7552 		.ascii	"x\234uR\315k\023A\024\177\277\274\335M\033h\205\"\036"
  228      CD6B1341 
  228      147FBFBC 
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  230      743D79C9 
  230      9AB54D82 
  230      0AA226C5 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 18
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 18
 
 
  230      650FAD25 
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  242      FB1FC677 
  242      105184E7 
  242      95DC4C88 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 19
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 19
 
 
  243 0110 F7F9E4C7 		.ascii	"\367\371\344\307?'\373\302\223>\271^\352\230p\354\247"
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  253      F644A331 
  254 01e1 4366BF99 		.ascii	"Cf\277\231\264z\367\366\306\222\226\214A\263?f\015\307"
  254      B47AF7F6 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 20
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 20
 
 
  254      C692968C 
@@ -1153,7 +1153,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  256      288EFC01 
  256      9537D827 
  257              		.text
- 258              		.section	.gnu.lto_chCoreGetStatusX.75cadf6e,"",%progbits
+ 258              		.section	.gnu.lto_chCoreGetStatusX.75d6f2e8,"",%progbits
  259 0000 789C8D91 		.ascii	"x\234\215\221MK\033a\020\307\347\277\263\331DZ\025\304"
  259      4D4B1B61 
  259      10C7E7BF 
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  267      8F2D9A90 
  268 009a 741F2D58 		.ascii	"t\037-X\205B\260\2066\222\354\363\225\332x\275ckT\304"
  268      8542B086 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 21
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 21
 
 
  268      3692ECF3 
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  279      C9B01264 
  279      74ED
  280 017c 89842B2B 		.ascii	"\211\204++\331\233\352N\2453\235]\235n:#\253/\325\355"
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 22
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 22
 
 
  280      D99BEA4E 
@@ -1272,7 +1272,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  281      F5
  282 01a1 A9F8     		.ascii	"\251\370"
  283              		.text
- 284              		.section	.gnu.lto_.symbol_nodes.75cadf6e,"",%progbits
+ 284              		.section	.gnu.lto_.symbol_nodes.75d6f2e8,"",%progbits
  285 0000 789C5DCC 		.ascii	"x\234]\314MN\002A\020\005\340W\257\230\001\206\211\340"
  285      4D4E0241 
  285      1005E057 
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  294      4051A676 
  294      C2AC6D4C 
  294      5EAE4FAA 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 23
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 23
 
 
  294      82A2CCEC 
@@ -1329,7 +1329,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  295      FC02
  296 00c1 779958A5 		.ascii	"w\231X\245"
  297              		.text
- 298              		.section	.gnu.lto_.refs.75cadf6e,"",%progbits
+ 298              		.section	.gnu.lto_.refs.75d6f2e8,"",%progbits
  299 0000 789C0DC4 		.ascii	"x\234\015\304\301\015\2000\014\003@\333ubJ\305\017!"
  299      C10D8030 
  299      0C0340DB 
@@ -1348,7 +1348,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  302 0036 0F2AC501 		.ascii	"\017*\305\001\\"
  302      5C
  303              		.text
- 304              		.section	.gnu.lto_.decls.75cadf6e,"",%progbits
+ 304              		.section	.gnu.lto_.decls.75d6f2e8,"",%progbits
  305 0000 789CB57B 		.ascii	"x\234\265{\011TTY\226`\274x?\" \010\300T\247N\236\032"
  305      09545459 
  305      9660BC78 
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  310      A6F69C99 
  310      38
  311 006c 5CFE7FFF 		.ascii	"\\\376\177\377\337w\367{\337\362\377W+\024\212\317?"
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 24
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 24
 
 
  311      DF77F77B 
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  322      970DF03D 
  322      C04E
  323 013b 801C25EB 		.ascii	"\200\034%\353\367G\370\367\257\000\200J}G\364\223\373"
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 25
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 25
 
 
  323      F747F8F7 
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  334      4FEA0650 
  334      1FA0828B 
  334      12DD82
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 26
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 26
 
 
  335 0210 10B97AEC 		.ascii	"\020\271z\354\345\\\234\027V\322\363\202\373\346&-\326"
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  346      51AC6152 
  346      5D92685D 
  347 02e5 A77599D2 		.ascii	"\247u\231\322j\033\257\214\367\300g\031\255\347\342"
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 27
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 27
 
 
  347      6A1BAF8C 
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  359      5883E935 
  359      A07903D1 
  359      6B0FEB
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 28
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 28
 
 
  360 03bf C71E6AAC 		.ascii	"\307\036j\254x-\354\342\360tE\274F\036\206z\235,\014"
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  371      3815F8A5 
  371      8A103D93 
  371      DF93CB
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 29
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 29
 
 
  372 049d 70EE468F 		.ascii	"p\356F\2174\236\304<\021\277\253@\037\255C\233 \232"
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  383      22416839 
  383      931AE7CE 
  383      DA356424 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 30
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 30
 
 
  384 057d EDE3EDAB 		.ascii	"\355\343\355\253\204\340\371\376\224=:F \233T\221\203"
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  395      E057EC5E 
  395      D1CBA873 
  395      DE385263 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 31
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 31
 
 
  396 0652 B2B5DC65 		.ascii	"\262\265\334e\013\311\027\317y\340\030v\363\352\203"
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  407      4E658DF2 
  407      D4E5
  408 071d 1A01E7B0 		.ascii	"\032\001\347\260F\364\336\222C\304Tj\226\020\0322(N"
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 32
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 32
 
 
  408      46F4DE92 
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  419      279C0B56 
  419      7F33
  420 07f1 7BDA0DDF 		.ascii	"{\332\015\337c\314.\356O\202t\352c\215\276\303q\225"
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 33
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 33
 
 
  420      63CC2EEE 
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  431      E97EC6C4 
  431      B480CF31 
  431      56F975A7 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 34
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 34
 
 
  431      6E697025 
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  443      618DA157 
  443      390F35F8 
  443      386BCC1D 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 35
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 35
 
 
  443      6ECCF7
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  454      3592EED7 
  455 0a7b 94C40B8D 		.ascii	"\224\304\013\215\304\027\012\326a\210\254\345\2430E"
  455      C4170AD6 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 36
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 36
 
 
  455      6188ACE5 
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  467      6BABEC7E 
  467      3E31A076 
  467      B5769EE6 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 37
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 37
 
 
  467      D4885D67 
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  479      8FA60759 
  479      F33D4776 
  479      C24D
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 38
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 38
 
 
  480 0c3a 3A1491BE 		.ascii	":\024\221\276\346\265\014\337\214u\350\225s|{WDa\271"
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  491 0d0a FE51B43F 		.ascii	"\376Q\264?\023\267yTU\334H\307j\262D\217\263\317\274"
  491      13B77954 
  491      55DC48C7 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 39
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 39
 
 
  491      6AB2448F 
@@ -2338,7 +2338,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  503 0ddd 084BC667 		.ascii	"\010K\306g:\317x\356\360]*\022\316\231\330~\016\303"
  503      3ACF78EE 
  503      F05D2A12 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 40
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 40
 
 
  503      CE99D87E 
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  515      8FEEB834 
  515      A9E5D4C9 
  516 0ebe 24E4A573 		.ascii	"$\344\245st\031\365\205?\267\035I\305\327\345\325,\237"
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 41
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 41
 
 
  516      7419F585 
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  528 0f8b EB588BEA 		.ascii	"\353X\213\352\261\343\356x\355T\351q\376\340\006\313"
  528      B1E3EE78 
  528      ED54E971 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 42
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 42
 
 
  528      FEE006CB 
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  541      4E091514 
  542 1063 9B8C877D 		.ascii	"\233\214\207}\340\351\036\030\017\357\333\214\364S?"
  542      E0E91E18 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 43
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 43
 
 
  542      0FEFDB8C 
@@ -2578,7 +2578,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  553      A65DB630 
  553      E663BB23 
  554 1139 1029587D 		.ascii	"\020)X}w\245.Z\205\326\322]\201$\347r\214\363\331\347"
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 44
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 44
 
 
  554      77A52E5A 
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  566      17B79628 
  566      A14EFE90 
  566      BC09E484 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 45
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 45
 
 
  566      8C
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  577      8939
  578 12df 49AC50E2 		.ascii	"I\254P\3422\246\365\361\250\312.w|\2115N\344\015d\362"
  578      32A6F5F1 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 46
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 46
 
 
  578      A8CA2E77 
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  590 13c4 445DE263 		.ascii	"D]\342c]4'\224\264\212t\356Cz]\001\263\245\301\321\312"
  590      5D342794 
  590      B48A74EE 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 47
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 47
 
 
  590      437A5D01 
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  601      17C8CB7A 
  601      C704FEB2 
  602 14a5 5E7644DC 		.ascii	"^vD\334m\233\247>p_VY\012\004\313\256\010ya\247<\245"
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 48
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 48
 
 
  602      6D9BA73E 
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  613      37CF4E0B 
  613      F251BA9C 
  613      BAD0B2
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 49
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 49
 
 
  614 1585 9724E74E 		.ascii	"\227$\347N6\315\035\271\313\237\356\335dE\242\3425E"
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  625      859769C3 
  625      ED744557 
  625      9427
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 50
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 50
 
 
  626 165b 7F8B814E 		.ascii	"\177\213\201NV\330\300x\271\210\017\214\226-\264v\301"
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  637      435E7739 
  637      0EC8
  638 172d 3837AAF2 		.ascii	"87\252\362\224\327k\366uz\271\352\367\201E\237\215\232"
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 51
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 51
 
 
  638      94D76BF6 
@@ -3058,7 +3058,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  649      81944AD5 
  649      D151B39E 
  650 1805 F831F3DE 		.ascii	"\3701\363\336\323\224\227\031*\253\373 \021Z\352\350"
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 52
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 52
 
 
  650      D3949719 
@@ -3118,7 +3118,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  662      600E7288 
  662      111A8D9B 
  662      39ABC4B9 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 53
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 53
 
 
  663 18df AC71A2AC 		.ascii	"\254q\242\254\370\230\267|N}\321\346\245\306\227\202"
@@ -3178,7 +3178,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  674      9F899D7E 
  674      E489E718 
  674      F94385
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 54
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 54
 
 
  675 19b9 25E731EF 		.ascii	"%\3471\3579\364\303\010\021\374A:FY:\322\023\024M;\336"
@@ -3238,7 +3238,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  686      967D9755 
  686      3494D2EC 
  686      60CE6450 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 55
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 55
 
 
  686      3389AA
@@ -3298,7 +3298,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  697      456E3EB2 
  698 1b65 37D14641 		.ascii	"7\321FA\222\321\022r\016G\316\241\310s\217\206\372m"
  698      92D11272 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 56
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 56
 
 
  698      0E47CEA1 
@@ -3358,7 +3358,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  709      4CDDFD77 
  709      7CF9
  710 1c3d 9DF16FE1 		.ascii	"\235\361o\341\354}g\264\302L\033\003\202\375\003\303"
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 57
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 57
 
 
  710      EC7D67B4 
@@ -3418,7 +3418,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  722      5BC3B703 
  722      1F66E5CF 
  722      FD
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 58
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 58
 
 
  723 1d10 024D82FF 		.ascii	"\002M\202\377\016\2770\2377v\204>\357\310\2701_\201"
@@ -3478,7 +3478,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  734      7B18BE31 
  734      049B82FC 
  735 1ddc 8C5FC3DD 		.ascii	"\214_\303\335 \343v\332A\263\323/\300\0047\275e\304"
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 59
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 59
 
 
  735      20E376DA 
@@ -3538,7 +3538,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  746      327A130E 
  746      DBBC19
  747 1eb1 609332EC 		.ascii	"`\2232\354W\312\260O\224a\037+\303~\251\014\373\013"
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 60
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 60
 
 
  747      57CAB04F 
@@ -3598,7 +3598,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  759      B176656D 
  759      BDC94BAE 
  759      3D44E837 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 61
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 61
 
 
  759      269264AA 
@@ -3658,7 +3658,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  771      AFBFFC
  772 205d 4FFFF5EF 		.ascii	"O\377\365\357\277\360\364\013\334\351\367\235\021\022"
  772      BFF0F40B 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 62
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 62
 
 
  772      DCE9F79D 
@@ -3676,7 +3676,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  775 208e 90E8FF00 		.ascii	"\220\350\377\000\025\033\304v"
  775      151BC476 
  776              		.text
- 777              		.section	.gnu.lto_.symtab.75cadf6e,"",%progbits
+ 777              		.section	.gnu.lto_.symtab.75d6f2e8,"",%progbits
  778 0000 5F636F72 		.ascii	"_core_init\000"
  778      655F696E 
  778      697400
@@ -3718,7 +3718,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  800      00000000 
  801 0089 D2000000 		.ascii	"\322\000\000\000"
  802 008d 6368436F 		.ascii	"chCoreGetStatusX\000"
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 63
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 63
 
 
  802      72654765 
@@ -3778,7 +3778,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  836      00000000 
  837 012c E2000000 		.ascii	"\342\000\000\000"
  838 0130 5F646267 		.ascii	"_dbg_check_unlock\000"
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 64
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 64
 
 
  838      5F636865 
@@ -3834,7 +3834,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 1
  859              		.comm	__gnu_lto_v1,1,1
  860              		.comm	__gnu_lto_slim,1,1
  861              		.ident	"GCC: (GNU Tools for Arm Embedded Processors 7-2017-q4-major) 7.2.1 20170904 (release) [ARM
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccS0IIOj.s 			page 65
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccfegj8U.s 			page 65
 
 
 DEFINED SYMBOLS
