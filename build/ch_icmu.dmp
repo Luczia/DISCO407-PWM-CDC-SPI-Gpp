@@ -76,19 +76,19 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, READONLY
  27 .comment      0000007e  00000000  00000000  00030d8b  2**0
                   CONTENTS, READONLY
- 28 .debug_line   00009042  00000000  00000000  00030e09  2**0
+ 28 .debug_line   00009039  00000000  00000000  00030e09  2**0
                   CONTENTS, READONLY, DEBUGGING
- 29 .debug_info   0001ac33  00000000  00000000  00039e4b  2**0
+ 29 .debug_info   0001ac28  00000000  00000000  00039e42  2**0
                   CONTENTS, READONLY, DEBUGGING
- 30 .debug_abbrev 00000fd2  00000000  00000000  00054a7e  2**0
+ 30 .debug_abbrev 00000fd2  00000000  00000000  00054a6a  2**0
                   CONTENTS, READONLY, DEBUGGING
- 31 .debug_aranges 000024f8  00000000  00000000  00055a50  2**3
+ 31 .debug_aranges 000024f8  00000000  00000000  00055a40  2**3
                   CONTENTS, READONLY, DEBUGGING
- 32 .debug_str    00009a5b  00000000  00000000  00057f48  2**0
+ 32 .debug_str    00009a5e  00000000  00000000  00057f38  2**0
                   CONTENTS, READONLY, DEBUGGING
- 33 .debug_ranges 00002520  00000000  00000000  000619a3  2**0
+ 33 .debug_ranges 00002520  00000000  00000000  00061996  2**0
                   CONTENTS, READONLY, DEBUGGING
- 34 .debug_frame  000077f4  00000000  00000000  00063ec4  2**2
+ 34 .debug_frame  000077f4  00000000  00000000  00063eb8  2**2
                   CONTENTS, READONLY, DEBUGGING
 SYMBOL TABLE:
 20000000 l    d  .mstack	00000000 .mstack
@@ -399,7 +399,7 @@ SYMBOL TABLE:
 20003180 l     O .bss	00000148 _ZL9waThread3
 08008750 l     F .text	00000038 _ZL7Thread3Pv
 080089d0 l     F .text	0000002c _Z41__static_initialization_and_destruction_0ii
-08008a00 l     F .text	0000000e _GLOBAL__sub_I_test
+08008a00 l     F .text	0000000e _GLOBAL__sub_I_encoder
 00000000 l    df *ABS*	00000000 ./build/obj/crt0_v7m.o
 08000234 l       .text	00000000 msloop
 08000242 l       .text	00000000 psloop

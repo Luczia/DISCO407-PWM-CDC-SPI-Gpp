@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 1
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 1
 
 
    1              	# 1 "../../chibios191/os/common/startup/ARMCMx/compilers/GCC/vectors.S"
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 1
   25              	 * @{
   26              	 */
   27              	
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 2
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 2
 
 
   28              	#ifndef CMPARAMS_H
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 1
   44              	/*===========================================================================*/
   45              	/* Code section.                                                             */
   46              	/*===========================================================================*/
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 3
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 3
 
 
   47              	
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 1
   86              	#endif
   87              	#if CORTEX_NUM_VECTORS > 20
   88 0090 00000000 	        .long       Vector90,   Vector94,   Vector98,   Vector9C
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 4
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 4
 
 
   88      00000000 
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 1
  115      00000000 
  115      00000000 
  115      00000000 
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 5
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 5
 
 
  116              	#endif
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 1
  143              	#endif
  144              	#if CORTEX_NUM_VECTORS > 96
  145 01c0 00000000 	        .long       Vector1C0,  Vector1C4,  Vector1C8,  Vector1CC
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 6
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 6
 
 
  145      00000000 
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 1
  194              	#endif
  195              	#if CORTEX_NUM_VECTORS > 164
  196              	        .long       Vector2D0,  Vector2D4,  Vector2D8,  Vector2DC
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 7
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 7
 
 
  197              	#endif
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 1
  251              	#endif
  252              	
  253              	        .text
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 8
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 8
 
 
  254              	
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 1
  308              	        .weak       VectorF0,   VectorF4,   VectorF8,   VectorFC
  309              	#endif
  310              	#if CORTEX_NUM_VECTORS > 48
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 9
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 9
 
 
  311              	        .weak       Vector100,  Vector104,  Vector108,  Vector10C
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 1
  365              	        .weak       Vector220,  Vector224,  Vector228,  Vector22C
  366              	#endif
  367              	#if CORTEX_NUM_VECTORS > 124
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 10
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 10
 
 
  368              	        .weak       Vector230,  Vector234,  Vector238,  Vector23C
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 1
  422              	        .weak       Vector350,  Vector354,  Vector358,  Vector35C
  423              	#endif
  424              	#if CORTEX_NUM_VECTORS > 200
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 11
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 11
 
 
  425              	        .weak       Vector360,  Vector364,  Vector368,  Vector36C
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 1
  479              	        .thumb_func
  480              	PendSV_Handler:
  481              	        .thumb_func
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 12
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 12
 
 
  482              	SysTick_Handler:
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 1
  536              	        .thumb_func
  537              	VectorA0:
  538              	        .thumb_func
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 13
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 13
 
 
  539              	VectorA4:
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 1
  593              	Vector104:
  594              	        .thumb_func
  595              	Vector108:
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 14
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 14
 
 
  596              	        .thumb_func
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 1
  650              	        .thumb_func
  651              	Vector16C:
  652              	        .thumb_func
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 15
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 15
 
 
  653              	Vector170:
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 1
  707              	Vector1D0:
  708              	        .thumb_func
  709              	Vector1D4:
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 16
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 16
 
 
  710              	        .thumb_func
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 1
  764              	        .thumb_func
  765              	Vector238:
  766              	        .thumb_func
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 17
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 17
 
 
  767              	Vector23C:
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 1
  821              	Vector29C:
  822              	#endif
  823              	#if CORTEX_NUM_VECTORS > 152
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 18
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 18
 
 
  824              	        .thumb_func
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 1
  878              	        .thumb_func
  879              	Vector300:
  880              	        .thumb_func
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 19
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 19
 
 
  881              	Vector304:
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 1
  935              	Vector364:
  936              	        .thumb_func
  937              	Vector368:
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 20
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 20
 
 
  938              	        .thumb_func
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 1
  992              	        .thumb_func
  993              	Vector3CC:
  994              	        .thumb_func
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 21
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 21
 
 
  995              	Vector3D0:
@@ -1234,7 +1234,7 @@ ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 1
  1025              	_unhandled_exception:
  1026              	.stay:
  1027 0006 FEE7     	        b           .stay
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 22
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 22
 
 
 DEFINED SYMBOLS
@@ -1294,7 +1294,7 @@ DEFINED SYMBOLS
 ../../chibios191/os/common/startup/ARMCMx/compilers/GCC/vectors.S:563    .text:00000002 VectorD0
 ../../chibios191/os/common/startup/ARMCMx/compilers/GCC/vectors.S:565    .text:00000002 VectorD4
 ../../chibios191/os/common/startup/ARMCMx/compilers/GCC/vectors.S:567    .text:00000002 VectorD8
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 23
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 23
 
 
 ../../chibios191/os/common/startup/ARMCMx/compilers/GCC/vectors.S:569    .text:00000002 VectorDC
@@ -1354,7 +1354,7 @@ DEFINED SYMBOLS
 ../../chibios191/os/common/startup/ARMCMx/compilers/GCC/vectors.S:691    .text:00000002 Vector1B4
 ../../chibios191/os/common/startup/ARMCMx/compilers/GCC/vectors.S:693    .text:00000002 Vector1B8
 ../../chibios191/os/common/startup/ARMCMx/compilers/GCC/vectors.S:695    .text:00000002 Vector1BC
-ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccUcg2BX.s 			page 24
+ARM GAS  C:\Users\Luczia\AppData\Local\Temp\ccEyz5GO.s 			page 24
 
 
 ../../chibios191/os/common/startup/ARMCMx/compilers/GCC/vectors.S:699    .text:00000002 Vector1C0

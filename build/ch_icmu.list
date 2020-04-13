@@ -18964,9 +18964,9 @@ extern void test(){return;};
 	...
 
 08008470 <basicSpiComTest>:
-//  encoder.writeIcMuRegister(MPC, 0x05);  // Cible 32 pôles
-//  encoder.readPos(&pos);
-//sdPutTimeout(&SD2, pos,TIME_MS2I(50));
+}
+#endif
+
 
 extern void basicSpiComTest()
 {
@@ -19664,7 +19664,7 @@ int main(void) {
  80089f8:	20002638 	.word	0x20002638
  80089fc:	00000000 	.word	0x00000000
 
-08008a00 <_GLOBAL__sub_I_test>:
+08008a00 <_GLOBAL__sub_I_encoder>:
  8008a00:	b508      	push	{r3, lr}
  8008a02:	f64f 71ff 	movw	r1, #65535	; 0xffff
  8008a06:	2001      	movs	r0, #1

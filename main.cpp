@@ -29,7 +29,7 @@ using namespace chibios_rt;
 
 #include "ichausmu/IcHausMu.hpp"
 #include "ichausmu/icmu_utils.h"
-#include "ichausmu/icmu.h"
+//#include "ichausmu/icmu.h"
 
 #include "spi_conf.h"
 #include "pwm_conf.h"

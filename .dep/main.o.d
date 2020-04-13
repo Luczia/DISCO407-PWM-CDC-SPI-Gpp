@@ -135,7 +135,7 @@ build/obj/main.o: main.cpp \
  ../../chibios191/os/hal/lib/streams/chprintf.h \
  c:\chibistudio\tools\gnu\ tools\ arm\ embedded\7.0\ 2017q4\lib\gcc\arm-none-eabi\7.2.1\include\stdarg.h \
  usb_otg/usbcfg.h ichausmu/IcHausMu.hpp ichausmu/icmu_utils.h \
- ichausmu/IcHausMu.hpp ichausmu/icmu.h spi_conf.h pwm_conf.h shell_conf.h
+ ichausmu/IcHausMu.hpp spi_conf.h pwm_conf.h shell_conf.h
 
 ../../chibios191/os/various/cpp_wrappers/ch.hpp:
 
@@ -422,8 +422,6 @@ ichausmu/IcHausMu.hpp:
 ichausmu/icmu_utils.h:
 
 ichausmu/IcHausMu.hpp:
-
-ichausmu/icmu.h:
 
 spi_conf.h:
 
